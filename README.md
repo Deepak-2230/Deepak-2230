@@ -13,7 +13,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Deepak-2230&theme=highcontrast&no-frame=false&no-bg=true&margin-w=4)
+//![](https://github-profile-trophy.vercel.app/?username=Deepak-2230&theme=highcontrast&no-frame=false&no-bg=true&margin-w=4)
 
  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
